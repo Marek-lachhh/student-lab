@@ -1,0 +1,23 @@
+p.normal {
+  font-weight: normal;
+}
+
+p.thick {
+  font-weight: bold;
+}
+
+p.thicker {
+  font-weight: 900;
+}
+
+h.ormal {
+  font-weight: normal;
+}
+
+h.hick {
+  font-weight: bold;
+}
+
+h.hicker {
+  font-weight: 900;
+}
